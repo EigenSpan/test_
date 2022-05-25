@@ -1,4 +1,1 @@
-# HELLO
-
-# Goodbye
 # Hi
